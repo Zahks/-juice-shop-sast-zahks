@@ -1,0 +1,6 @@
+projectKey=juice-shop-sast
+serverUrl=http://localhost:9000
+serverVersion=26.1.0.118079
+dashboardUrl=http://localhost:9000/dashboard?id=juice-shop-sast
+ceTaskId=7157addd-1a8b-4571-bd6d-f1bacbc0729b
+ceTaskUrl=http://localhost:9000/api/ce/task?id=7157addd-1a8b-4571-bd6d-f1bacbc0729b
